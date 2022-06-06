@@ -167,10 +167,13 @@ export default {
         this.updateLaufzeit(this.endZeitStamp);
         this.stop();
         this.timer = undefined
-      } else {
+      } else if (this.startZeitStamp != null) {
         if (this.timer == undefined) {
           this.start();
         }
+      } else if(this.startZeitStamp == null){
+        this.startZeitDatum = "noch undefiniert"
+        this.laufzeit = 0
       }
     }),
       this.socket.on("connect", () => {
