@@ -1,6 +1,15 @@
-# website_pren
+# PREN_website
+Website based on vue.js. This website shows the current status of HerbE and other information.
+Link to website: https://prenh21-dbrunner.enterpriselab.ch/
 
-This template should help get you started developing with Vue 3 in Vite.
+### Linked code to this project:
+- python-based repostiory for autonomous driving roboter -> [PREN_HerbE](https://github.com/dave1b/PREN_HerbE)
+- vue.js website -> [PREN_website](https://github.com/dave1b/PREN_website)
+<br>
+
+
+
+
 
 ## Recommended IDE Setup
 
