@@ -8,6 +8,7 @@ Link to website: https://prenh21-dbrunner.enterpriselab.ch/
 <br>
 
 
+![grafik](https://user-images.githubusercontent.com/57140925/172697033-6bc81c4a-3ad1-4b51-bdc6-c3e75bce1112.png)
 
 
 
