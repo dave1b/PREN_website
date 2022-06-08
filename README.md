@@ -7,8 +7,10 @@ Link to website: https://prenh21-dbrunner.enterpriselab.ch/
 - vue.js website -> [PREN_website](https://github.com/dave1b/PREN_website)
 <br>
 
+<img src="https://user-images.githubusercontent.com/57140925/172697033-6bc81c4a-3ad1-4b51-bdc6-c3e75bce1112.png" width="500">
 
-![grafik](https://user-images.githubusercontent.com/57140925/172697033-6bc81c4a-3ad1-4b51-bdc6-c3e75bce1112.png)
+
+<img src="https://user-images.githubusercontent.com/57140925/172697697-c24b72c6-39e5-4087-a76d-8b013579f3df.png" width="500">
 
 
 
