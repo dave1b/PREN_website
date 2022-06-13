@@ -18,6 +18,9 @@
           <div class="col-sm">
             <h7>Social Media</h7>
             <div class="">
+              <a class="footer-btn" href="https://github.com/dave1b/PREN_HerbE" target="_blank">
+                <i class="fab bi bi-github"></i>
+              </a>
               <a
                 class="footer-btn"
                 href="https://www.youtube.com/c/HochschuleLuzern-HSLU"
@@ -38,9 +41,9 @@
               >
                 <i class="fab fa-linkedin-in"></i>
               </a>
-              <a class="footer-btn" href="mailto:dave.brunner@stud.hslu.ch">
-                <i class="fa-solid fa-envelope"></i>
-              </a>
+                <a class="footer-btn" href="mailto:dave.brunner@stud.hslu.ch">
+                  <i class="fa-solid fa-envelope"></i>
+                </a>
             </div>
           </div>
           <div class="col-sm">
